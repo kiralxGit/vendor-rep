@@ -6,3 +6,5 @@ asdfsdf
 sdf
 dfsdf
 fdsf
+
+for conflict automatically solved
