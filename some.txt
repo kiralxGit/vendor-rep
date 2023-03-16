@@ -8,3 +8,5 @@ dfsdf
 fdsf
 
 for conflict automatically solved
+
+изменение для второй задачи
