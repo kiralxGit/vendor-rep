@@ -10,3 +10,5 @@ fdsf
 for conflict automatically solved
 
 изменение для второй задачи
+
+изменение для 3 задачи
